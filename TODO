@@ -1,0 +1,4 @@
+linktree --fix
+  actually remove non-conforming files?
+
+switch to File::Find?
